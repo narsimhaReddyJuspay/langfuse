@@ -15994,7 +15994,7 @@ snapshots:
       '@smithy/util-middleware': 4.2.12
       '@smithy/util-utf8': 4.2.2
       fflate: 0.8.1
-      tslib: 2.6.3
+      tslib: 2.8.1
 
   '@smithy/middleware-content-length@4.2.12':
     dependencies:
@@ -16105,7 +16105,7 @@ snapshots:
 
   '@smithy/types@4.13.1':
     dependencies:
-      tslib: 2.6.3
+      tslib: 2.8.1
 
   '@smithy/url-parser@4.2.12':
     dependencies:
@@ -16121,11 +16121,11 @@ snapshots:
 
   '@smithy/util-body-length-browser@4.2.2':
     dependencies:
-      tslib: 2.6.3
+      tslib: 2.8.1
 
   '@smithy/util-body-length-node@4.2.3':
     dependencies:
-      tslib: 2.6.3
+      tslib: 2.8.1
 
   '@smithy/util-buffer-from@2.2.0':
     dependencies:
